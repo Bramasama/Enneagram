@@ -1,2 +1,1 @@
-# the-enneagram
-# the-enneagram
+# The Enneagram intro
